@@ -33,7 +33,7 @@ p, #intro-text{
 
 
 section{
-    height: 90vh;
+    height: 80vh;
 }
 
 
@@ -181,6 +181,15 @@ a{
     font-size: 1em;
     max-width: fit-content;
 }
+
+footer{
+    display: flex;
+    felx-direction: column;
+    flex-wrap: auto;
+    justify-content: center;
+    align-items: center;
+}
+
 
 /* Add responsive design considerations */
 @media (max-width: 768px) {

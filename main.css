@@ -189,6 +189,7 @@ footer{
     justify-content: center;
     align-items: stretch;
     text-align: center;
+    height: 10vh;
 /*     color: turquoise; */
 /*     padding: 1rem; */
 }

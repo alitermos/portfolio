@@ -180,6 +180,7 @@ a{
     text-decoration: none;
     font-size: 1em;
     max-width: fit-content;
+    margin-bottom: 2rem;
 }
 
 footer{
@@ -191,7 +192,7 @@ footer{
     text-align: center;
     height: 10vh;
     vertical-align: middle;
-    
+    background-color: #162c51;
 /*     color: turquoise; */
 /*     padding: 1rem; */
 }

@@ -189,10 +189,22 @@ footer{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-color: #000;
-    color: turquoise;
-    padding: 1rem;
+/*     color: turquoise; */
+/*     padding: 1rem; */
 }
+
+#credits{
+    background-color: #000;
+}
+
+#credits p{
+    color: #8892b0;
+}
+
+#credits a{
+    color: turquoise;
+}
+
 
 
 

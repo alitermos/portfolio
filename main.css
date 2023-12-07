@@ -188,7 +188,12 @@ footer{
     flex-wrap: auto;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    background-color: #000;
+    color: turquoise;
+    padding: 1rem;
 }
+
 
 
 /* Add responsive design considerations */

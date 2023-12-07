@@ -194,7 +194,9 @@ footer{
 }
 
 #credits{
-    background-color: #000;
+    background-color: #162c51;
+    height: 100%;
+    width: 100%;
 }
 
 #credits p{
